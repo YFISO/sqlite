@@ -1,0 +1,7 @@
+//using the post request
+POST http:localhost:3008/api/greetings
+
+{
+    "language": "English",
+    "greeting": "Hello"
+}
